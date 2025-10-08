@@ -71,19 +71,6 @@ npm run dev
 - **Budgeting & Alerts** – Set monthly budgets and get notified when limits are reached.
 - **Export Data** – Download expense history in CSV/PDF format.
 
----
+  
 
-## 🔗 Links
-- **Live Demo:** "https://expensemanger-bp1g.onrender.com/"   
 
----
-
-## 📜 License
-This Project is Free Source
----
-
-## 🙌 Acknowledgments
-Developed during my **6-week internship** with **EY Global Delivery Services** & **AICTE** under the **Next Gen Employability Program**.  
-Special thanks to mentors and peers who provided feedback and guidance during development.
-
----
